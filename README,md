@@ -1,0 +1,26 @@
+  Projeto: Sistema de Gerenciamento de Livros
+
+  Descrição:
+O Sistema de Gerenciamento de Livros é uma aplicação desenvolvida em Java utilizando o padrão MVC (Model-View-Controller) para facilitar o gerenciamento de um acervo literário. A aplicação permite aos usuários adicionar, listar, editar e excluir informações sobre livros em um banco de dados MySQL.
+
+  Tecnologias Utilizadas:
+- Java: Linguagem de programação principal, utilizada para a lógica de negócio e manipulação de dados.
+- MySQL: Banco de dados relacional para armazenamento persistente das informações dos livros.
+- Maven: Ferramenta de gerenciamento de dependências e automação de builds.
+- NetBeans: Ambiente de desenvolvimento integrado (IDE) utilizado para desenvolvimento da aplicação.
+
+ Funcionalidades:
+
+ Adicionar Livro: Permite a inclusão de novos livros no sistema, informando título, autor, ano de publicação e gênero.
+
+ Listar Livros: Exibe uma lista de todos os livros cadastrados, facilitando a visualização do acervo.
+
+ Editar Livro: Possibilita a atualização das informações de um livro existente.
+
+ Excluir Livro: Remove livros do sistema de forma simples e rápida.
+
+ Interface em Console: A interação com o usuário é feita via terminal, proporcionando uma experiência de uso direta e intuitiva.
+
+ Objetivo:
+O principal objetivo deste sistema é oferecer uma solução prática e eficiente para a gestão de acervos literários, permitindo que os usuários mantenham suas coleções organizadas e facilmente acessíveis.
+
